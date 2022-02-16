@@ -450,6 +450,8 @@ header {
   color: #ffffff;
   display: block;
   position: relative;
+  width: 80%;
+  margin: auto;
   z-index: 999;
   background: url(../images/slide.jpg) center 0 no-repeat;
 }
