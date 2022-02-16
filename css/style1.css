@@ -592,7 +592,8 @@ header .header_top {
   width: 100%;
 }
 
-/* .box .gall_item span {
+.box .gall_item span {
+  /* Makes  icon appear over photo on hover */
   -webkit-transition: background-position 0.5s ease;
   transition: background-position 0.5s ease;
   position: absolute;
@@ -606,7 +607,7 @@ header .header_top {
 
 .box .gall_item:hover span {
   background-position: center center;
-} */
+}
 
 .box .box_bot {
   background-color: #ffeaa5;
@@ -628,8 +629,8 @@ header .header_top {
   font-weight: 700;
   line-height: 48px;
   font-weight: 700;
-  /* letter-spacing: -1px; */
   margin-bottom: 19px;
+  text-align: center;
 }
 
 /* .box .box_bot .btn {
