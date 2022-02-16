@@ -400,7 +400,7 @@ a:hover {
   color: #282826;
   display: table;
   font-family: "Josefin Slab", serif;
-  font-size: 1rem;
+  font-size: 4rem;
   font-weight: 700;
   justify-content: center;
   line-height: 2.5rem;
@@ -409,8 +409,7 @@ a:hover {
   text-align: center;
   text-decoration: none #282826 solid;
   text-decoration-thickness: auto;
-  width: 100%;
-  max-width: 400px;
+  max-width: 600px;
   position: relative;
   transform: rotate(-2deg);
 }
