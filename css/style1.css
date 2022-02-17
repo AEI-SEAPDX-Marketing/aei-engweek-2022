@@ -100,7 +100,7 @@ body {
   font-family: : 'Josefin Slab', serif;
   position: relative;
   background: #6AB3A8;
-  color: #282826;
+  color: #4d2600;
 }
 
 .ic {
@@ -168,7 +168,7 @@ img {
 
 /****Heads****/
 h1 {
-  color: #282826;
+  color: #4d2600;
   font-family: 'Yesteryear', cursive;
   font-size: 58px;
 }
@@ -372,9 +372,9 @@ a:hover {
 
 .button-53 {
   background-color: #ffeaa5;
-  border: 0 solid #282826;
+  border: 0 solid #4d2600;
   box-sizing: border-box;
-  color: #282826;
+  color: #4d2600;
   display: table;
   font-family: "Josefin Slab", serif;
   font-size: 1rem;
@@ -398,19 +398,19 @@ a:hover {
 
 .nobutton-53 {
   background-color: #ffeaa5;
-  border: 0 solid #282826;
+  border: 0 solid #4d2600;
   box-sizing: border-box;
-  color: #282826;
+  color: #4d2600;
   display: table;
-  font-family: "Josefin Slab", serif;
+  font-family: "Yesteryear", serif;
   font-size: 4rem;
   font-weight: 700;
   justify-content: center;
   line-height: 2.5rem;
-  padding: .75rem 1.65rem;
+  padding: 1.5rem 1.65rem;
   position: relative;
   text-align: center;
-  text-decoration: none #282826 solid;
+  text-decoration: none #4d2600 solid;
   text-decoration-thickness: auto;
   max-width: 600px;
   position: relative;
@@ -425,7 +425,7 @@ a:hover {
 .button-53:after {
   content: '';
   position: absolute;
-  border: 1px solid #282826;
+  border: 1px solid #4d2600;
   bottom: 4px;
   left: 4px;
   width: calc(100% - 1px);
@@ -435,7 +435,7 @@ a:hover {
 .nobutton-53:after {
   content: '';
   position: absolute;
-  border: 1px solid #282826;
+  border: 1px solid #4d2600;
   bottom: 4px;
   left: 4px;
   width: calc(100% - 1px);
@@ -484,10 +484,10 @@ header h1.logo {
   line-height: 36px;
 }
 header .header_top {
-  letter-spacing: -1px;
+  /* letter-spacing: -1px; */
   font: 300 30px/48px 'Yesteryear', cursive;
   padding: 182px 0 198px;
-  background: url(../images/header-img.jpg) center 0 no-repeat;
+  background: url(../images/woman-boulder_road_crop1.jpg) center 0 no-repeat;
 }
 
 /****Content****/
@@ -614,7 +614,7 @@ header .header_top {
 
 .box .box_bot {
   background-color: #ffeaa5;
-  color: #282826;
+  color: #4d2600;
   position: absolute;
   left: 0;
   right: 0;
@@ -653,6 +653,12 @@ header .header_top {
 .box .box_bot:hover .box_bot_title {
   /* Causes Photo Title to turn green on hover */
   color: #6AB3A8;
+}
+
+.fill {
+  background-color: rgb(255, 255, 255, 0.4) ;
+  height: auto;
+  padding: 10px;
 }
 
 /* .blog .btn {
@@ -831,7 +837,7 @@ a.color1:hover {
   z-index: 20;
   -webkit-transition: color 0.5s ease;
   transition: color 0.5s ease;
-  background-color: #282826;
+  background-color: #4d2600;
 }
 #toTop:hover {
   outline: none;
