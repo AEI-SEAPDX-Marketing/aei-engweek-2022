@@ -116,9 +116,6 @@ body {
 	padding:0
 }
 
-strong {
-  font-weight: 700;
-}
 
 /* .ic {
 	border:0;
@@ -146,6 +143,12 @@ p {
   font-weight: 500;
   margin-bottom: 20px;
 }
+
+.message {
+  font-size: 2em;
+  line-height: 1.5;
+}
+
 /* p.offset__1 {
   margin-bottom: 38px;
 }
