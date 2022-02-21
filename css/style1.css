@@ -444,6 +444,10 @@ a:hover {
   height: calc(100% - 1px);
 }
 
+.caption {
+  font-size: 1.3rem;
+}
+
 /* .button-53:hover:after {
   bottom: 2px;
   left: 2px;
