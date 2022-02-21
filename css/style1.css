@@ -97,7 +97,7 @@ sss * {
 }
 
 body {
-  font-family: : 'Josefin Slab', 'courier', serif;
+  font-family: : 'Josefin Slab', serif;
   position: relative;
   background: #6AB3A8;
   color: #4d2600;
@@ -138,14 +138,13 @@ strong {
 } */
 
 p {
-  font: 20px/26px 'Josefin Slab', 'courier', serif;
-  font-family: 'Josefin Slab', 'courier', serif;
+  font: 20px/26px 'Josefin Slab', serif;
+  font-family: 'Josefin Slab', serif;
   font-weight: 500;
   margin-bottom: 20px;
 }
 
 .message {
-  font-weight: 400;
   font-size: 2em;
   line-height: 1.5;
 }
@@ -179,7 +178,7 @@ h5,
 h6 {
   font-weight: 400;
   color: #171616;
-  font-family: 'Josefin Slab', 'courier', serif;
+  font-family: 'Josefin Slab', serif;
 }
 h2 {
   color: #4d2600;
@@ -195,7 +194,7 @@ h2 {
 }
 h3 {
   color: #ffffff;
-  font-family: 'Josefin Slab', 'courier', serif;
+  font-family: 'Josefin Slab', serif;
   font-size: 36px;
   font-weight: 400;
   line-height: 48px;
@@ -377,7 +376,7 @@ a:hover {
   box-sizing: border-box;
   color: #4d2600;
   display: table;
-  font-family: "Josefin Slab", 'courier', serif;
+  font-family: "Josefin Slab", serif;
   font-size: 1rem;
   /* font-weight: 700; */
   justify-content: center;
@@ -628,7 +627,7 @@ header .header_top {
 
 .box .box_bot .box_bot_title {
   padding-left: 18px;
-  font-family: 'Josefin Slab', 'courier', serif;
+  font-family: 'Josefin Slab', serif;
   font-size: 24px;
   font-weight: 700;
   line-height: 48px;
@@ -795,7 +794,7 @@ a.color1:hover {
   color: #e3dfdf;
 }
 #footer .footer_phone {
-  font-family: "Josefin Slab", 'courier', serif;
+  font-family: "Josefin Slab", serif;
   font-size: 18px;
 }
 #footer .sub-copy {
