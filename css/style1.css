@@ -145,7 +145,7 @@ p {
 }
 
 .message {
-  font-size: 2em;
+  font-size: 1.5rem;
   line-height: 1.5;
 }
 
@@ -352,7 +352,9 @@ a:hover {
 */
 .center {
   display: table;
-  margin: auto;
+  margin-left: 50%;
+  position: relative;
+  bottom:120px;
 }
 
 /* .clear {
@@ -487,7 +489,8 @@ header .header_top {
   /* letter-spacing: -1px; */
   font: 300 30px/48px 'Yesteryear', cursive;
   padding: 182px 0 198px;
-  background: url(../images/woman-boulder_road_crop1.jpg) center 0 no-repeat;
+  background: url(../images/hero-img.jpg) left 0 no-repeat;
+  background-size: cover;
 }
 
 /****Content****/
